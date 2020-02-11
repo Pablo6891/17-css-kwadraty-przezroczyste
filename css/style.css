@@ -1,0 +1,24 @@
+body
+{
+    background-color: rgb(173, 169, 170);
+}
+div
+{
+background-color: rgb(0, 0, 0);
+height: 200px;
+width: 200px;
+margin: 10px;
+margin-left: auto;
+margin-right: auto;
+}
+div.a2{
+    background-color: rgba(0, 0, 0, 0.7);
+}
+div.a3
+{
+    background-color: rgba(0, 0, 0, 0.5);
+}
+div.a4
+{
+    background-color: rgba(0, 0, 0, 0.1);
+}
